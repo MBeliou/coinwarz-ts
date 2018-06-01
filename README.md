@@ -2,6 +2,7 @@
 
 
 A wrapper in typescript for the CoinWarz API
+https://www.coinwarz.com/v1/api/documentation
 
 ### How to use:
 ```typescript
