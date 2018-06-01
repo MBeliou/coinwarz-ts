@@ -1,4 +1,4 @@
-##coinwarz-ts 
+## coinwarz-ts 
 
 
 A wrapper in typescript for the CoinWarz API  
