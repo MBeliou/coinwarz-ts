@@ -1,6 +1,6 @@
 import fetch from "node-fetch";
 
-class Coinwarz {
+export default class Coinwarz {
     apiKey: string;
     urlBase: string = "http://www.coinwarz.com/v1/api/";
 
